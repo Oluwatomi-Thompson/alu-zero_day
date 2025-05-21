@@ -1,1 +1,1 @@
-This is the README for the git directory.
+Update README from GitHub interface
